@@ -55,15 +55,15 @@ dist-ssr
 # 3D source files
 *.blend
 *.fbx
-*.glb
-*.gltf
+# *.glb
+# *.gltf
 *.obj
 *.ztl
 
 # Textures (can be very large)
-*.png
-*.jpg
-*.jpeg
+# *.png
+# *.jpg
+# *.jpeg
 *.tga
 *.exr
 *.hdr
