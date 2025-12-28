@@ -163,7 +163,7 @@ const experiences = [
     company_name: "QueueTech Solutions Pvt. Ltd. - Mangalore",
     icon: queue, // replace with QueueTech logo if available
     iconBg: "#ffffff",
-    date: "Apr 2024 - Jul 2024",
+    date: "jan 2023 - Mar 2023",
     points: [
       "Learned and applied Full Stack Web Development using HTML, CSS, JavaScript, and PHP.",
       "Developed web-based projects with seamless front-end and back-end integration.",
