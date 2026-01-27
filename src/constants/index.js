@@ -32,7 +32,8 @@ import {
   pet,
   php,
   hashtime,
-  portfolio
+  portfolio,
+  stock,
 } from "../assets";
 
 export const navLinks = [
@@ -147,8 +148,8 @@ const technologies = [
 const experiences = [
 
   {
-  title: "Backend Developer (Contract, Remote, Part-Time)",
-  company_name: "Neelanjana Enterprises, Udupi",
+  title: "Backend Developer (Part-Time)",
+  company_name: "Ishani Solutions, Udupi",
   icon: queue, // replace with company logo if available
   iconBg: "#ffffff",
   date: "Jan 2024 – Dec 2025",
@@ -262,7 +263,7 @@ const projects = [
     live_website_link: "",
   },
   {
-    name: "Pet E-Commerce Platform",
+    name: "PetKart E-Commerce Platform",
     description:
       "A full-featured e-commerce website for pet food and accessories with user authentication, detailed product listings, and an admin panel for efficient order management.",
     tags: [
@@ -303,16 +304,16 @@ const projects = [
   //   live_website_link: "",
   // },
   {
-    name: "Social Media Engagement Optimizer",
+    name: "Stock Prediction Portal (Full-Stack ML)",
     description:
-      "A data-driven system using Machine Learning, NLP, and Computer Vision to recommend optimal posting times and hashtags, improving engagement prediction by 20–30%.",
+     "A data-driven stock prediction system leveraging LSTM-based Machine Learning models with a Django backend and a React + TypeScript frontend to analyze historical market data, forecast future trends, and visualize insights through interactive charts, enabling real-time multi-stock analysis and smarter, insight-driven decision-making.",
     tags: [
       { name: "python", color: "blue-text-gradient" },
       { name: "ML", color: "green-text-gradient" },
-      { name: "NLP", color: "pink-text-gradient" },
-      { name: "CV", color: "blue-text-gradient" },
+      { name: "LSTM", color: "blue-text-gradient" },
+      
     ],
-    image: hashtime, // reuse safely
+    image: stock, // reuse safely
     source_code_link: "https://github.com/MrNuthan",
     live_website_link: "",
   },
