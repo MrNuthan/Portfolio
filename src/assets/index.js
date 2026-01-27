@@ -71,13 +71,16 @@ const sql =
 const go =
    "https://ik.imagekit.io/myportfolio45/go4give.png";
 const pet =
-   "https://ik.imagekit.io/myportfolio45/petcare.png";
+   
 const php =
    "https://ik.imagekit.io/myportfolio45/php.png";
 const hashtime =
-   "https://ik.imagekit.io/myportfolio45/hashtime.png";
+   "https://ik.imagekit.io/myportfolio45/stock.png";
 const portfolio =
    "https://ik.imagekit.io/myportfolio45/portfolio.png";
+const stock=
+  "https://ik.imagekit.io/myportfolio45/stock.png";
+
 
 export {
   logo,

@@ -145,6 +145,21 @@ const technologies = [
 ];
 
 const experiences = [
+
+  {
+  title: "Backend Developer (Contract, Remote, Part-Time)",
+  company_name: "Neelanjana Enterprises, Udupi",
+  icon: queue, // replace with company logo if available
+  iconBg: "#ffffff",
+  date: "Jan 2024 – Dec 2025",
+  points: [
+    "Worked on client projects through a web development agency, focused on backend development.",
+    "Developed REST APIs using Django and Django REST Framework (DRF) and managed MySQL/PostgreSQL databases.",
+    "Implemented authentication systems, admin dashboards, and core backend workflows.",
+    "Collaborated with frontend teams to integrate APIs into production applications.",
+    "Optimized database queries, improving data access performance by 30%.",
+  ],
+},
   {
     title: "Cybersecurity Intern",
     company_name: "DLithe Consultancy Services Pvt. Ltd. - Bangalore",
@@ -171,6 +186,7 @@ const experiences = [
       "Gained practical experience in responsive design and user experience optimization.",
     ],
   },
+
 ];
 
 const education = [
