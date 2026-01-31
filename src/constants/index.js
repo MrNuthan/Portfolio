@@ -272,7 +272,7 @@ const projects = [
       { name: "django", color: "blue-text-gradient" },
     ],
     image: pet, // ✅ existing image
-    source_code_link: "https://github.com/MrNuthan",
+    source_code_link: "https://github.com/MrNuthan/PetKart",
     live_website_link: "",
   },
   {
@@ -286,7 +286,7 @@ const projects = [
       { name: "node.js", color: "blue-text-gradient" },
     ],
     image: portfolio, // ✅ existing image
-    source_code_link: "https://github.com/MrNuthan",
+    source_code_link: "https://github.com/MrNuthan/Portfolio",
     live_website_link: "",
   },
   // {
@@ -314,7 +314,7 @@ const projects = [
       
     ],
     image: stock, // reuse safely
-    source_code_link: "https://github.com/MrNuthan",
+    source_code_link: "https://github.com/MrNuthan/Stock_Prediction_website",
     live_website_link: "",
   },
 ];
