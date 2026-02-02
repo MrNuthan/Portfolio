@@ -147,32 +147,20 @@ const technologies = [
 
 const experiences = [
 
+  
   {
-  title: "Backend Developer (Part-Time)",
-  company_name: "Ishani Solutions, Udupi",
-  icon: queue, // replace with company logo if available
-  iconBg: "#ffffff",
-  date: "Jan 2024 – Dec 2025",
-  points: [
-    "Worked on client projects through a web development agency, focused on backend development.",
-    "Developed REST APIs using Django and Django REST Framework (DRF) and managed MySQL/PostgreSQL databases.",
-    "Implemented authentication systems, admin dashboards, and core backend workflows.",
-    "Collaborated with frontend teams to integrate APIs into production applications.",
-    "Optimized database queries, improving data access performance by 30%.",
-  ],
-},
-  {
-    title: "Cybersecurity Intern",
+    title: "Python Full Stack Development Intern",
     company_name: "DLithe Consultancy Services Pvt. Ltd. - Bangalore",
     icon: dlithe, // replace with DLithe logo if available
     iconBg: "#0188E3",
     date: "Dec 2024 - Feb 2025",
     points: [
-      "Worked on Network Security, Vulnerability Assessment, and Penetration Testing using Kali Linux.",
-      "Gained hands-on experience with Firewall & UTM configuration and Web Application Security.",
-      "Practiced Cyber Forensics, Threat Intelligence, and Secure Communication Protocols.",
-      "Conducted web monitoring and security assessments for enterprise applications.",
-    ],
+  "Developed full-stack web applications using Python and Django for backend services and JavaScript frameworks for frontend functionality.",
+  "Designed and implemented RESTful APIs for efficient client-server communication and business logic handling.",
+  "Worked with relational databases including PostgreSQL and MySQL, performing CRUD operations using Django ORM and optimized queries.",
+  "Used Git for version control and deployed applications on cloud platforms such as Heroku while working on real-time industry projects."
+]
+
   },
   {
     title: "Web Development Intern",
