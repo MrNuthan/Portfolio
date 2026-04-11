@@ -292,14 +292,14 @@ const projects = [
   //   live_website_link: "",
   // },
   {
-    name: "Stock Prediction Portal (Full-Stack ML)",
+    name: "Stock Price Prediction",
     description:
-     "A data-driven stock prediction system leveraging LSTM-based Machine Learning models with a Django backend and a React + TypeScript frontend to analyze historical market data, forecast future trends, and visualize insights through interactive charts, enabling real-time multi-stock analysis and smarter, insight-driven decision-making.",
+      "Developed a stock price prediction system using LSTM in Python and TensorFlow. Implemented time-series forecasting to analyze historical data and predict future stock trends with improved accuracy.",
     tags: [
       { name: "python", color: "blue-text-gradient" },
-      { name: "ML", color: "green-text-gradient" },
-      { name: "LSTM", color: "blue-text-gradient" },
-      
+      { name: "machine-learning", color: "green-text-gradient" },
+      { name: "tensorflow", color: "pink-text-gradient" },
+      { name: "LSTM", color: "orange-text-gradient" },
     ],
     image: stock, // reuse safely
     source_code_link: "https://github.com/MrNuthan/Stock_Prediction_website",

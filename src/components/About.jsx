@@ -51,10 +51,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[14px] sm:text-[17px] max-w-3xl sm:leading-[30px] leading-1"
       >
-        Hi, I’m Nuthan N V — a Computer Applications graduate with hands-on experience as a Full Stack Developer and QA Engineer. I enjoy building and testing secure, responsive web applications using modern technologies like React, Tailwind CSS, Django, Python, and SQL.
+       <p>
+      I am a passionate GenAI and Python Developer with a strong focus on building intelligent and scalable applications. 
+      I specialize in Machine Learning, Deep Learning, and AI-powered solutions using Python, TensorFlow, and modern web technologies.
 
-I have experience working across both frontend and backend development, along with software testing and quality assurance, where I focus on identifying issues, improving application reliability, and ensuring a smooth user experience. I’m passionate about learning new technologies, solving problems, and continuously improving my skills to build high-quality software solutions.
-
+      I have experience developing real-world projects such as stock prediction systems, AI-based applications, and data-driven solutions. 
+      My goal is to leverage Artificial Intelligence to solve complex problems and create impactful digital products.
+      </p>
       </motion.p>
       <div className="mt-20 flex  flex-wrap gap-10">
         {services.map((service, index) => (
